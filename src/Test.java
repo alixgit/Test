@@ -10,7 +10,8 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("Questa e' un piccolo test");
 		System.out.println("adesso abbiamo capito il gioco");
-		System.out.println("Il risultato della nostra somma è: " + meno(10, 9));
+		System.out.println("Modifica online depuis github");
+		System.out.println("Il risultato della nostra somma Ã¨: " + meno(10, 9));
 		
 
 	}
