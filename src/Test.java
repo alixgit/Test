@@ -11,7 +11,6 @@ public class Test {
 		System.out.println("Questa e' un piccolo test");
 		System.out.println("deuxième modification");
 		System.out.println("Il risultato della nostra somma è: " + meno(10, 9));
-		System.out.println("metodo semplificato");
 		
 
 	}
