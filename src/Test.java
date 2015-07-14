@@ -5,6 +5,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("Questa e' un piccolo test");
 		System.out.println("deuxième modification");
+		int a, b;
 		
 
 	}
