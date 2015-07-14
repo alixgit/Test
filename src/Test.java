@@ -9,9 +9,9 @@ public class Test {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Questa e' un piccolo test");
-		System.out.println("deuxième modification");
+		//System.out.println("deuxième modification");
 		System.out.println("Il risultato della nostra somma è: " + add(10, 9));
-		System.out.println("metodo semplificato");
+		System.out.println("un demo qui se passe bien");
 		
 
 	}
